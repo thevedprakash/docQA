@@ -22,14 +22,16 @@ cd ..
 pipreqs docQA
 
 
-
 ## Download model
 
 python download.py
 
 ## Create Vector Embedding of documents
-
 python vector.py
+
+```
+You may change pdf and vector strategy as per need.
+```
 
 
 ## Run Streamlit app.
