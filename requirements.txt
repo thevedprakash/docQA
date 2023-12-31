@@ -5,3 +5,8 @@ langchain_community==0.0.7
 langchain_core==0.1.4
 numpy==1.24.3
 streamlit==1.29.0
+sentence-transformers
+InstructorEmbedding 
+pypdf  
+faiss-cpu
+llama-cpp-python
